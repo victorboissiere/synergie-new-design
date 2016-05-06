@@ -2,3 +2,7 @@
 .uppercase {
     text-transform: uppercase;
 }
+
+.indent-well {
+    margin-top: 50px;
+}
