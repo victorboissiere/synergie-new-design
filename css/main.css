@@ -4,5 +4,20 @@
 }
 
 .indent-well {
-    margin-top: 50px;
+    margin-top: 110px;
+}
+
+.contact-form .row {
+    margin-top: 20px
+}
+
+.contact-form .row label {
+    font-size: 15px;
+    color: #333;
+}
+
+
+
+.contact-form {
+    padding: 20px;
 }
