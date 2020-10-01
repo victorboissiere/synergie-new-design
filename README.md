@@ -1,5 +1,5 @@
 # synergie-new-design
-New design of the official Synergie wesite
+New design of the official Synergie wesite.
 
 # Doc
 
